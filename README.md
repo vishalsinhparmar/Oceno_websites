@@ -17,6 +17,12 @@ pnpm dev
 pnpm build
 ```
 
+## Vercel deployment
+
+Deploy the repository root as a Vite project. The Vercel rewrite serves the
+single-page app for direct visits and refreshes on client-side routes, and
+static images and icons are served from `public/assets`.
+
 ## Project structure
 
 ```

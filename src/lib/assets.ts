@@ -1,4 +1,4 @@
-const assetPathPrefix = "/assets";
+const assetPathPrefix = `${import.meta.env.BASE_URL}assets`;
 
 /** Static assets exported from the OCENO Figma file. */
 export const assets = {
