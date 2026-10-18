@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="232" height="24" viewBox="0 0 232 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Range Slider">
+<rect id="Track" y="10" width="232" height="4" rx="2" fill="#DEE3EB"/>
+<rect id="Active" x="40" y="10" width="130" height="4" fill="#0B4DF5"/>
+<path id="Handle" d="M48.5 12C48.5 16.6944 44.6944 20.5 40 20.5C35.3056 20.5 31.5 16.6944 31.5 12C31.5 7.30558 35.3056 3.5 40 3.5C44.6944 3.5 48.5 7.30558 48.5 12Z" fill="white" stroke-width="3" stroke="#0B4DF5"/>
+<path id="Handle_2" d="M178.5 12C178.5 16.6944 174.694 20.5 170 20.5C165.306 20.5 161.5 16.6944 161.5 12C161.5 7.30558 165.306 3.5 170 3.5C174.694 3.5 178.5 7.30558 178.5 12Z" fill="white" stroke-width="3" stroke="#0B4DF5"/>
+</g>
+</svg>

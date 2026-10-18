@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a sleek, production-ready React website featuring smooth slider animations and skeleton effects for an engaging user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
